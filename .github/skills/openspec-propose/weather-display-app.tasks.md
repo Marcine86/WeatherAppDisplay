@@ -19,6 +19,7 @@
 
 Proponowane rozbicie na TODOs (do zaimportowania do systemu tasków):
 - repo-init: Inicjalizacja repo i ustawienie Vite
+- folder-structure: Utwórz strukturę folderów projektu Vite
 - ui-basic: Implementacja podstawowych komponentów UI
 - api-integration: Podłączenie OpenWeatherMap i przetwarzanie wyników
 - caching-geo: Implementacja cache i geolokalizacji

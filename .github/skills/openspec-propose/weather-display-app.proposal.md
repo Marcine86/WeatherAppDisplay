@@ -13,7 +13,7 @@ Główne cele:
 - Wyszukiwanie po nazwie miasta i geolokalizacja przeglądarki.
 
 Zakres (in‑scope):
-- Frontend: React + Vite, komponenty UI, responsywność.
+- Frontend: React (Vite), komponenty UI, responsywność.
 - Integracja z API pogodowym (klucz API, caching krótkoterminowy).
 
 Poza zakresem (out‑of‑scope):

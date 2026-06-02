@@ -1,7 +1,7 @@
 # Design — Aplikacja do wyświetlania pogody
 
 Technologie:
-- Frontend: React (Native) + Javascript
+- Frontend: React (Vite) + Javascript
 - Stylizacja: Tailwind CSS
 - Backend (opcjonalny): lekki proxy w Node.js/Express lub serverless (Vercel Functions) do ukrycia klucza API
 - API pogodowe: OpenWeatherMap (Current Weather + 3 day forecast)
